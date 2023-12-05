@@ -1,0 +1,12 @@
+#ifndef _CONSTVAR_H
+#define _CONSTVAR_H
+
+#define MAX_LENGTH 1024*4
+#define HEAD_TOTAL_LEN 4
+#define HEAD_ID_LEN 2
+#define HEAD_MSG_LEN 2
+enum MSG_IDS {
+    USERNAME_CHECK_ID = 1001, FEATURE_MATCH_ID, DATABASE_UPDATE_ID
+};
+
+#endif

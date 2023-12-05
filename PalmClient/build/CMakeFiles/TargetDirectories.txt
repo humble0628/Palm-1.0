@@ -1,0 +1,4 @@
+/home/wyh/Palm/PalmClient/build/CMakeFiles/rebuild_cache.dir
+/home/wyh/Palm/PalmClient/build/CMakeFiles/edit_cache.dir
+/home/wyh/Palm/PalmClient/build/CMakeFiles/Palmclient.dir
+/home/wyh/Palm/PalmClient/build/CMakeFiles/palmclient.dir
